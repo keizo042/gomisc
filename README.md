@@ -1,6 +1,11 @@
 misc
 ====
 
+# description
+
+there are some experimental or toy software written by golang.
+nobody know whether cut off or not.
+
 ## LICENSE
 MITL
 
